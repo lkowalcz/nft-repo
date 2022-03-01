@@ -1,0 +1,15 @@
+{
+   "title": "Email",
+   "type": "object",
+   "properties": {
+       "name": {
+           "type": "Email",
+           "description": "You got mail"
+       },
+       "description": {
+           "type": "string",
+           "description": "Mail from a real security"
+       },
+"image": "https://storage.googleapis.com/opensea-prod.appspot.com/puffs/3.png",
+   }
+}
